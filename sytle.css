@@ -1,8 +1,8 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
-    box-sizing: border-box; */
-
+    box-sizing: border-box;
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -12,8 +12,6 @@
 /* ---------------header---------- */
 .header{
     background-color: rgba(35, 37, 54, 1);
-    /* width: 1300px;
-    height: 741px; */
 }
 .header__list{
     list-style: none;
