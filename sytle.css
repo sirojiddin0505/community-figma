@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     list-style: none;
+    text-decoration: none;
     font-family: Poppins;
 }
 .container{
@@ -232,8 +233,6 @@
     padding: 20px 0;
 }
 .wrapper__button{
-    width: 200px;
-    height: 70px;
     font-size: 17px;
     border-radius: 2px;
     background-color:blue;
@@ -241,6 +240,8 @@
     border: none;
     border-radius: 7px;
     transition: all 0.8s;
+    padding: 20px 32px;
+    margin-bottom: 60px;
 }
 .wrapper__button:hover{
     color: black;
@@ -275,10 +276,7 @@
     font-weight: 500;
     line-height: 24px; 
     color: rgba(68, 76, 252, 1); 
-}
-.wrapper__link{
-    text-decoration: none;
-    padding-bo: 200px;
+    padding-top: 40px;
 }
 /* -----------section----------- */
 .section{
